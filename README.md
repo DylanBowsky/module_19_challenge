@@ -16,8 +16,15 @@ We use streamlit and it highlights all of the professionals. On the left it show
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Images
+
+My ether account balance
+
 ![My ether account balance](Images/Etherscan.png)
 
+Recipient Balance
+
 ![Recipient Balance](Images/recipient_bal.PNG)
+
+Example of Transaction Hash
 
 ![Example of Transaction Hash](Images/transaction_hash.PNG)
